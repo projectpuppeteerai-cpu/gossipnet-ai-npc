@@ -1,0 +1,17 @@
+{
+  "name": "com.gossipnet.ai-npc",
+  "version": "1.0.0",
+  "displayName": "GossipNet - AI NPC Core Engine",
+  "description": "LLM-powered asynchronous NPC dialogue cache & state management middleware for Unity.",
+  "unity": "6000.3",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "samples": [
+    {
+      "displayName": "Demo Scene & Debug Tools",
+      "description": "Interactive demo scene setup tool, cache debug UI, and example NPC interaction scripts.",
+      "path": "Samples~"
+    }
+  ]
+}

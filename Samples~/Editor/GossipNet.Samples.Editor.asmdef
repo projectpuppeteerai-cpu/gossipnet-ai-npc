@@ -1,0 +1,21 @@
+{
+    "name": "GossipNet.Samples.Editor",
+    "rootNamespace": "AINPCCoreEngine.EditorTools",
+    "references": [
+        "GossipNet.Runtime",
+        "GossipNet.Samples",
+        "UnityEngine.UI",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
